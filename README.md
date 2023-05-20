@@ -1,1 +1,1 @@
-My first readme
+This is my very first day with GitHub!
